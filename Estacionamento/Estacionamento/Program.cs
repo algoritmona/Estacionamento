@@ -1,6 +1,6 @@
 ﻿using Estacionamento.Models;
 
-// Encoding para UTF8 para exibir acentuação
+// Encoding para UTF8 para acentuação
 Console.OutputEncoding = System.Text.Encoding.UTF8;
 
 decimal precoInicial = 0;
